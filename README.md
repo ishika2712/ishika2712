@@ -5,7 +5,7 @@ I am Ishika Thakur, an aspiring data scientist at Indiana University. I love exp
 - 🌱 I’m currently learning creating an end to end data streaming pipeline for a portfolio management project using Kafka, Amazon EC2 and Tableau
 - 👯 I’m looking to connect over coffee and discussing unique business ideas.
 - 😄 Pronouns: she/her
-<!--- ⚡ Fun fact: 
+<!--- ⚡ Fun fact: -->
   
 🔗 &nbsp;**Connect with me**
 <p align="left">
