@@ -1,7 +1,7 @@
 ## Hi there 👋
 I am Ishika Thakur, an aspiring data scientist at Indiana University. I love experimenting with how data can be used to drive business decisions. 
 
-- 🔭 I’m currently working on GradSERU survey reponses to identify what student factors lead to academic burnout among graduate students.
+- 🔭 I’m currently working on GradSERU survey reponses to identify what academic and institutional factors lead to academic burnout among graduate students.
 - 🌱 I’m currently learning creating an end to end data streaming pipeline for a portfolio management project using Kafka, Amazon EC2 and Tableau
 - 👯 I’m looking to connect over coffee and discussing unique business ideas.
 - 😄 Pronouns: she/her
